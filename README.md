@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: 
 👨‍🎓 I’m currently working in full stack development as a 2nd-year Computer Science student (BUT Informatique) at Marie & Louis Pasteur University in Belfort.<br><br>📚 I’m currently studying web development with VueJS and Node.js, learning how to work with MySQL databases, and developing applications in Java.<br><br>🔎 About me: I am a Swiss Army knife capable of adapting to many situations. 
 
 
